@@ -1,3 +1,4 @@
 # Ultimate Tic Tac Toe
-*Using ul-tictactoe script you can play offline game.
-*Using server_player and client_player files you can play online
+
+- **Offline Play**: Use the `ul-tictactoe` script to play the game offline.
+- **Online Play**: Use the `server_player` and `client_player` scripts to play the game online.
